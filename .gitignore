@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+*.svs
+*.tif
+*.ndpi
+*.pth
+.ipynb_checkpoints/
