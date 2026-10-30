@@ -1,6 +1,6 @@
 # Gigapixel Pathology: Patch-Based Histopathology Segmentation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niteshiiitl/wsi-tumor-detection-pipeline/blob/main/Histopathology_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/niteshiiitl/wsi-tumor-detection-pipeline/blob/main/Histopathology_Pipeline.ipynb](https://colab.research.google.com/drive/1zBVWJKbRqz_kTAJdqIiMpyyKdfFourpU?usp=sharing))
 
 This project demonstrates a production-styled pipeline for segmenting ultra-high-resolution Whole Slide Images (WSIs), mirroring industry standards in Digital Pathology.
 
