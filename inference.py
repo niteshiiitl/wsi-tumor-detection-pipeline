@@ -1,5 +1,6 @@
 import torch
 import numpy as np
+import pandas as pd
 import cv2
 from torchvision import transforms
 from wsi_handler import WSIPatchExtractor
