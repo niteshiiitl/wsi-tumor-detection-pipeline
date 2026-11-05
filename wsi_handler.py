@@ -1,5 +1,6 @@
 import openslide
 import numpy as np
+import pandas as pd
 from PIL import Image
 
 class WSIPatchExtractor:
