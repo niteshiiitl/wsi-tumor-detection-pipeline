@@ -7,7 +7,7 @@ from inference import run_gigapixel_inference
 
 st.set_page_config(layout="wide", page_title="Digital Pathology AI")
 
-st.title("🔬 AI Pathology: Gigapixel Tissue Segmentation")
+st.title(" AI Pathology: Gigapixel Tissue Segmentation")
 
 uploaded_file = st.file_uploader("Upload WSI file (.tif, .svs, .ndpi)", type=['tif', 'svs', 'ndpi'])
 
