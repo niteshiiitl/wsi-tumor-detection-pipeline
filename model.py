@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import torch.optim as optim
 
 class SimpleUNet(nn.Module):
     def __init__(self, in_channels=3, out_channels=1):
