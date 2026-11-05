@@ -5,3 +5,4 @@ venv/
 *.ndpi
 *.pth
 .ipynb_checkpoints/
+.env
